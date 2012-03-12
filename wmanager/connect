@@ -1,0 +1,3 @@
+sudo iwconfig $1 mode $4
+sudo iwconfig $1 essid $3
+sudo dhcpcd $1

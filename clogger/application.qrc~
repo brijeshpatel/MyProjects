@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BitComet.ico</file>
+        <file>user_green.png</file>
+        <file>user_red.png</file>
+    </qresource>
+</RCC>

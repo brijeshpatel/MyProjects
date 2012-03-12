@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+	<file>icons/download.ico</file>
+	<file>icons/quit.png</file>
+	<file>icons/reload.png</file>
+    </qresource>
+</RCC>

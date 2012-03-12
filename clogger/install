@@ -1,0 +1,5 @@
+#!/bin/sh
+make
+mkdir $HOME/clogger
+cp clogger $HOME/clogger/
+cp clogger.desktop $HOME/.config/autostart/
